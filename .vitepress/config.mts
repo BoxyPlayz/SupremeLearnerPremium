@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: "pages",
-  base: "/supremelearnerpremium/",
+  base: "/SupremeLearnerPremium/",
   title: "Supreme Learner Premium",
   description: "learn things i guess",
   themeConfig: {
