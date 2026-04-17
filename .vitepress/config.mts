@@ -15,10 +15,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Math',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Intro', link: '/math/intro.md' },
+          { text: 'Chapter 1', link: '/math/chapter-1' }
         ]
       }
     ],
@@ -26,5 +26,8 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
+  },
+  markdown: {
+    math: true
   }
 })

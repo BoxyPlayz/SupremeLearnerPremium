@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: alt
       text: Math
-      link: /markdown-examples
+      link: /math/intro
     - theme: alt
       text: Reading
       link: /api-examples
@@ -25,3 +25,7 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+# THIS IS NOT MEANT FOR CLASSWORK. ANYONE WHO MAKES THIS REQUIRED GOES AGAINST THE PHILOSOPHY OF THIS SITE.
+
+# Our (my) philosophy
+I believe that learning should be something that can be done at any pace, any time, for fun. Additionally, I believe the requirement of it takes the joy otherwise attained by it.
