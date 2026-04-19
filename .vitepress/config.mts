@@ -15,6 +15,10 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: "Evil Burger King",
+        link: "/evil-king"
+      },
+      {
         text: 'Math',
         items: [
           { text: 'Intro', link: '/math/intro.md' },

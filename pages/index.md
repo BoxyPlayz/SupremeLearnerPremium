@@ -7,22 +7,20 @@ hero:
   text: "learn things i guess"
   tagline: The greatest place to learn whatever random stuff I decide to put here
   actions:
+    - theme: brand
+      text: Why the Burger King is evil?!
+      link: /evil-king
     - theme: alt
       text: Math
       link: /math/intro
-    - theme: alt
-      text: Reading
-      link: /api-examples
-    - theme: brand
-      text: Why the Burger King is evil?!
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Educational
+    details: Learn very useful things!!!!
+  - title: Entertaining
+    details: Learn very interesting things!!!
+  - title: Existential
+    details: Wait, that's not right
 ---
 
 # Supreme Learner Premium
