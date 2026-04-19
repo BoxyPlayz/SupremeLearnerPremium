@@ -1,7 +1,8 @@
 # Chapter 1: Beginnings
+
 So, you made it.  
-So anyway, see these?
-# 1 2 3 4 5 6 7 8 9 10
+So anyway, see these?  
+__1 2 3 4 5 6 7 8 9 10__  
 Those are numbers. These monsters either make life better, make life painful, or give people existential fears!
 ::: info FUN FACT!
 Did you know, our universe could be in a false vaccum state? That means that if it ever became a true vaccum, it would rewrite the laws of physics and end life as we know it! And we can never stop it or know if it's coming!

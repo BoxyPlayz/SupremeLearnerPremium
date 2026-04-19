@@ -18,7 +18,8 @@ export default defineConfig({
         text: 'Math',
         items: [
           { text: 'Intro', link: '/math/intro.md' },
-          { text: 'Chapter 1', link: '/math/chapter-1' }
+          { text: 'Chapter 1', link: '/math/chapter-1' },
+          { text: 'List of Axioms', link: '/math/axioms' }
         ]
       }
     ],
