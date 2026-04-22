@@ -7,6 +7,9 @@ export default defineConfig({
   title: "Supreme Learner Premium",
   description: "learn things i guess",
   themeConfig: {
+    search: {
+      provider: "local"
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },

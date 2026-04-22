@@ -10,8 +10,8 @@ If AB+BC=AC, then B is between A and C
 ## Angle Classification
 
 If an angle is 90°, then it is a right angle  
-If an angle is 180°, then it is a straight angle
-If an angle is less than 90°, then it is an acute angle
+If an angle is 180°, then it is a straight angle  
+If an angle is less than 90°, then it is an acute angle  
 If an angle is more than 90°, but less than 180°, then is is a ~~Big Back~~ "obtuse angle"
 
 ## Angle Addition Postulate
